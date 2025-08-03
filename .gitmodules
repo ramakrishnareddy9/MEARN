@@ -1,0 +1,9 @@
+[submodule "Css"]
+	path = Css
+	url = https://github.com/ramakrishnareddy9/CSS.git
+[submodule "MERN - Work"]
+	path = MERN - Work
+	url = https://github.com/ramakrishnareddy9/MEARN-Msd-WeakelyWork.git
+[submodule "javaScript"]
+	path = javaScript
+	url = https://github.com/ramakrishnareddy9/Learning-JavaScript.git
