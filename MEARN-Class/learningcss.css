@@ -1,0 +1,36 @@
+.class_name {
+    color: red;
+}
+
+#id_name {
+    color: blue;
+}
+
+*{
+    font-style: italic;
+    color: orange;
+}
+
+p {
+    color: teal;
+}
+
+div p {
+    color: red;
+}
+
+div > p {
+    color: green;
+}
+
+div ~ p, div ~ span {
+    color: orange;
+}
+
+div + p {
+    color: teal;
+}
+
+section + span {
+    color: blue;
+}
