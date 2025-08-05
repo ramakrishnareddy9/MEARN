@@ -69,3 +69,4 @@ let sortedArray = array.sort((a,b)=>{
     return b-a;
 });
 console.log(sortedArray)
+
